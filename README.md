@@ -8,6 +8,8 @@
 </div>
 ###  Инструменты:
 <div>
+
+  <img src="https://avatars.githubusercontent.com/u/44556874?s=200&v=4" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
