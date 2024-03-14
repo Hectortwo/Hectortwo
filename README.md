@@ -8,7 +8,7 @@
 </div>
 ###  Инструменты:
 <div>
-  <img src="https://www.flaticon.com/ru/free-icon/sql-file-format-symbol_29165?term=sql&page=1&position=17&origin=tag&related_id=29165" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/google-sheets/google-sheets.png" title="Google Tables" alt="Google Tables" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/44556874?s=200&v=4" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
