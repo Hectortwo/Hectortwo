@@ -6,6 +6,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 
+  ###  Проекты:
+| Название | Инструменты |
+| :--------: | :-------: |
 <!--
 **Hectortwo/Hectortwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
