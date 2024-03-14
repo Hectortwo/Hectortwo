@@ -1,5 +1,6 @@
 ### Печенкин Иван 👋
 :round_pushpin:  Калуга
+## Junior Analyst
 ###  Инструменты:
 <div>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
