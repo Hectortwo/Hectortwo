@@ -8,7 +8,7 @@
 </div>
 ###  Инструменты:
 <div>
-
+  <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/google-sheets/google-sheets.png" title="Google Tables" alt="Google Tables" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/44556874?s=200&v=4" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
