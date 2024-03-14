@@ -1,6 +1,11 @@
 ### Печенкин Иван 👋
 :round_pushpin:  Калуга
 ## Junior Analyst
+<br/><br/>
+<div id="badges">
+  <a href="https://t.me/hector_two">
+    <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>  
+</div>
 ###  Инструменты:
 <div>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
