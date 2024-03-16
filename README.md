@@ -1,6 +1,6 @@
 ### Печенкин Иван 👋
 :round_pushpin:  Калуга
-## Junior Analyst
+## Junior Data Analyst
 <br/><br/>
 <div id="badges">
   <a href="https://t.me/hector_two">
