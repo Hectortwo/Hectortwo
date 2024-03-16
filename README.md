@@ -21,6 +21,7 @@
 | Название | Инструменты |
 | :--------: | :-------: |
 |[ABC-XYZ анализ](https://github.com/Hectortwo/Data/tree/main/Excel) | [Excel]
+|[Power BI]
 <!--
 **Hectortwo/Hectortwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
