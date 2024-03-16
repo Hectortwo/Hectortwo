@@ -21,6 +21,7 @@
 | Название | Инструменты |
 | :--------: | :-------: |
 |[ABC-XYZ анализ](https://github.com/Hectortwo/Data) |<img src="https://avatars.githubusercontent.com/u/44556874?s=200&v=4"/><img src="[https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue](https://avatars.githubusercontent.com/u/44556874?s=200&v=4)"/>|
+|[Интерактивный дашборд](https://github.com/DinkyPinky/Data-Science/tree/main/Games-Dashboard) |<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=red"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue"/>|
 
 <!--
 **Hectortwo/Hectortwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
