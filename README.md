@@ -20,7 +20,7 @@
   ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[ABC-XYZ анализ](https://github.com/Hectortwo/Data) |<img src="https://avatars.githubusercontent.com/u/44556874?s=200&v=4"/><img src="[https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue](https://avatars.githubusercontent.com/u/44556874?s=200&v=4)"/> width="40" height="40"/>&nbsp |
+|[ABC-XYZ анализ](https://github.com/Hectortwo/Data/tree/main/Excel) | [Excel]
 <!--
 **Hectortwo/Hectortwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
